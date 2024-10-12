@@ -19,7 +19,6 @@ struct ContactDetailsView: View {
                     Image(systemName: "person.fill")
                         .resizable()
                         .frame(width: 100, height: 100)
-                        .foregroundColor(.black)
                     
                     Spacer()
                 }
